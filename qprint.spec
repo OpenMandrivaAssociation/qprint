@@ -6,7 +6,6 @@ License:        Public Domain
 Group:		Networking/Mail
 URL:		http://www.fourmilab.ch/webtools/qprint/
 Source:         %{name}-%{version}.tar.bz2
-BuildRoot:      %{_tmppath}/%{name}-buildroot
 
 %description
 qprint is a command line utility which encodes and decodes
