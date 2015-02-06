@@ -1,7 +1,7 @@
 Summary:	Encode and decode quoted printable data
 Name:           qprint
 Version:        1.0
-Release:        %mkrel 9
+Release:        10
 License:        Public Domain
 Group:		Networking/Mail
 URL:		http://www.fourmilab.ch/webtools/qprint/
