@@ -4,7 +4,7 @@ Version:        1.0
 Release:        10
 License:        Public Domain
 Group:		Networking/Mail
-URL:		http://www.fourmilab.ch/webtools/qprint/
+URL:		https://www.fourmilab.ch/webtools/qprint/
 Source:         %{name}-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-buildroot
 
