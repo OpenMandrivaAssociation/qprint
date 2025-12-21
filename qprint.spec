@@ -8,6 +8,11 @@ URL:		https://www.fourmilab.ch/webtools/qprint/
 Source:         %{name}-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-buildroot
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 qprint is a command line utility which encodes and decodes
 files in this format. It can be used within a pipeline as
